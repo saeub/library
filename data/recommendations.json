@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Ulysses",
+        "author": {
+            "firstName": "James",
+            "lastName": "Joyce",
+            "alive": false
+        },
+        "language": "en",
+        "year": 1922
+    },
+    {
+        "title": "Rheinaufwärts",
+        "author": {
+            "firstName": "Franz",
+            "lastName": "Hohler",
+            "alive": true
+        },
+        "language": "de",
+        "year": 2023
+    }
+]

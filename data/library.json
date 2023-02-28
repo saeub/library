@@ -1,0 +1,62 @@
+[
+    {
+        "title": "Die Verwandlung",
+        "author": {
+            "firstName": "Franz",
+            "lastName": "Kafka",
+            "alive": false
+        },
+        "language": "de",
+        "year": 1915
+    },
+    {
+        "title": "Aufzeichnungen aus dem Kellerloch",
+        "author": {
+            "firstName": "Fjodor",
+            "lastName": "Dostojewski",
+            "alive": "false"
+        },
+        "language": "de",
+        "year": 1864
+    },
+    {
+        "title": "The man who mistook his wife for a hat",
+        "author": {
+            "firstName": "Oliver",
+            "lastName": "Sacks",
+            "alive": false
+        },
+        "language": "en",
+        "year": 1985
+    }
+    {
+        "title": "Frankenstein",
+        "author": {
+            "first name": "Mary",
+            "last name": "Shelley",
+            "alive": false
+        },
+        "language": "en",
+        "year": 1818
+    },
+    {
+        "title": "Medea: Stimmen",
+        "author": {
+            "firstName": "Christa",
+            "lastName": 'Wolf',
+            "alive": false
+        },
+        "language": "de",
+        "year": 1996
+    },
+    {
+        "title": "Die Känguru-Chroniken",
+        "author": {
+            firstName: "Marc-Uwe",
+            lastName: "Kling",
+            alive: true
+        },
+        "language": "de",
+        "year": 1997,
+    }
+]
