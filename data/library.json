@@ -58,5 +58,16 @@
         },
         "language": "de",
         "year": 1997,
+    },
+    {
+        "title": "Pyramids",
+        "author": {
+            "firstName": "Terry",
+            "lastName": "Pratchett",
+            "alive": false
+        },
+        "language": "en",
+        "year": 1989,
     }
+
 ]
