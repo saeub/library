@@ -62,9 +62,9 @@
     {
         "title": "Pyramids",
         "author": {
-            firstName: "Terry",
-            lastName: "Pratchett",
-            alive: false
+            "firstName": "Terry",
+            "lastName": "Pratchett",
+            "alive": false
         },
         "language": "en",
         "year": 1989,
