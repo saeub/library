@@ -1,13 +1,13 @@
 [
     {
-        "title": "Die Verwandlung",
+        "title": "Burning your own",
         "author": {
-            "firstName": "Franz",
-            "lastName": "Kafka",
-            "alive": false
+            "firstName": "Glenn",
+            "lastName": "Patterson",
+            "alive": true
         },
-        "language": "de",
-        "year": 1915
+        "language": "eng",
+        "year": 1965
     },
     {
         "title": "Aufzeichnungen aus dem Kellerloch",
