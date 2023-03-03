@@ -62,9 +62,9 @@
 {
     "title": "Der Schwarm",
     "author": {
-            firstName: "Frank",
-            lastName: "Schätzing",
-            alive: true
+            "firstName": "Frank",
+            "lastName": "Schätzing",
+            "alive": true
     },
 }
 ]
