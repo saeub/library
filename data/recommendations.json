@@ -19,4 +19,14 @@
         "language": "de",
         "year": 2023
     }
+    {
+        "title": "Der Schwarm",
+        "author": {
+            "firstName": "Frank",
+            "lastName": "Schätzing",
+            "alive": true
+        },
+        "language": "de",
+        "year": 2004,
+    }
 ]
