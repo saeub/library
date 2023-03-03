@@ -59,4 +59,14 @@
         "language": "de",
         "year": 1997,
     }
+    {
+        "title": "Der Schwarm",
+        "author": {
+            firstName: "Frank",
+            lastName: "Schätzing",
+            alive: true
+        },
+        "language": "de",
+        "year": 2004,
+    }
 ]
