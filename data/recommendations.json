@@ -19,4 +19,14 @@
         "language": "de",
         "year": 2023
     }
+        {
+        "title": "Der Wisent",
+        "author": {
+            "firstName": "Konrad Bogusław",
+            "lastName": "Bach",
+            "alive": true
+        },
+        "language": "de",
+        "year": 2020
+    }
 ]
