@@ -18,6 +18,16 @@
         },
         "language": "de",
         "year": 2023
+    },
+    {
+        "title": "Sinn des Lebens",
+        "author": {
+            "firstName": "Monty",
+            "lastName": "Python",
+            "alive": true
+        },
+        "language": "en",
+        "year": 2140
     }
         {
         "title": "Der Wisent",
